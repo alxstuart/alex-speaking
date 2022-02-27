@@ -1,5 +1,6 @@
 # alex-speaking
 A living list of my previous public speaking sessions.
+
 ##2022
 [Data as a First Class Product](https://www.sofasummits.com/data-ai-summit) - An introduction to the principles of Datamesh. I also moderated a panel on Data Culture at this event.
 
