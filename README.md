@@ -1,5 +1,12 @@
 # alex-speaking
 A living list of my previous public speaking sessions.
+##2022
+[Data as a First Class Product](https://www.sofasummits.com/data-ai-summit) - An introduction to the principles of Datamesh. I also moderated a panel on Data Culture at this event.
+
+
+##2021
+[The Database Is Only Half Done](https://whitehallmedia.co.uk/bdanov2021/programme/) - Asking the fundamental question: Is the database in its current form the right abstraction for this machine-driven world? A virtual conference speaking about databases and event streaming.
+
 ## 2020
 [Legacy IBM Systems and Splunk: Security, Compliance and Uptime](https://www.precisely.com/resource-center/webinars/legacy-ibm-systems-and-splunk-security-compliance-and-uptime) - A talk about IBM Mainframe monitoring, co-hosted with Preceisely.
 
