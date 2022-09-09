@@ -4,6 +4,7 @@ A living list of my previous public speaking sessions.
 ## 2022
 [Data as a First Class Product](https://www.sofasummits.com/data-ai-summit) - An introduction to the principles of Datamesh. I also moderated a panel on Data Culture at this event.
 
+[ADOPTING DATA IN MOTION: THE MODERN EVENT-DRIVEN ARCHITECTURE](https://gotoldn.com/2022-eda-aws-day/schedule?date=2022-09-01) - Following the keynote at the inaugural AWS EDA day, I shared learnings for how to successfully build an event driven architecture in a business. Hosted in person at CodeNode London.
 
 ## 2021
 [The Database Is Only Half Done](https://whitehallmedia.co.uk/bdanov2021/programme/) - Asking the fundamental question: Is the database in its current form the right abstraction for this machine-driven world? A virtual conference speaking about databases and event streaming.
