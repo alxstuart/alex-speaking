@@ -13,6 +13,8 @@ A living list of my previous public speaking sessions.
 
 [Modern Data Flows: Data Pipelines Done Right](https://whitehallmedia.co.uk/bdanov2022/programme/#:~:text=Alex%20Stuart) - Coming soon. Delivered at BDA day, The UK’s premier big data analytics event.
 
+[New Kids On The Bloq S1 Ep32](https://rss.com/podcasts/newkidsonthebloq/680840) Joining the hosts of the "New Kids On the Bloq" Podcast to discuss a wide breadth of Blockchain related topics.
+
 ## 2021
 [The Database Is Only Half Done](https://whitehallmedia.co.uk/bdanov2021/programme/) - Asking the fundamental question: Is the database in its current form the right abstraction for this machine-driven world? A virtual conference speaking about databases and event streaming.
 
