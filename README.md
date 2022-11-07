@@ -9,7 +9,7 @@ A living list of my previous public speaking sessions.
 
 [ADOPTING DATA IN MOTION: THE MODERN EVENT-DRIVEN ARCHITECTURE](https://gotoldn.com/2022-eda-aws-day/schedule?date=2022-09-01) - Following the keynote at the inaugural AWS EDA day, I shared learnings for how to successfully build an event driven architecture in a business. Hosted in person at CodeNode London.
 
-[Off The Chain:Scaling Blockchain Data with Kafka](https://current22.mpeventapps.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=9BFF57144E75089D3809F5CEDDE5270B91D484A83799707F895E2B86B49A738F7EB837871A0C7E5E73F77AA865CDB9C6) - Working with [Jan S](https://github.com/griga23) to deliver architectural guidelines and a working example of how blockchain data can be enriched using Kafka, and help with the deision on which to use where with the "Fast and Slow Data" concept. Delivered live at Current '22 in Austin, Texas.
+[Off The Chain:Scaling Blockchain Data with Kafka](https://www.confluent.io/events/current-2022/off-the-chain-scaling-blockchain-data-with-kafka) - Working with [Jan S](https://github.com/griga23) to deliver architectural guidelines and a working example of how blockchain data can be enriched using Kafka, and help with the deision on which to use where with the "Fast and Slow Data" concept. Delivered live at Current '22 in Austin, Texas.
 
 [Modern Data Flows: Data Pipelines Done Right](https://whitehallmedia.co.uk/bdanov2022/programme/#:~:text=Alex%20Stuart) - Coming soon. Delivered at BDA day, The UK’s premier big data analytics event.
 
