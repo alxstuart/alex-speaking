@@ -2,7 +2,7 @@
 A living list of my previous public speaking sessions.
 
 ## Default Bio
-> Alex is an Advisory Solutions Engineer at Confluent, coaching and guiding digital native businesses across Europe on their path to adopting data in motion. His career has spanned from software development in the nuclear power industry to Mainframe engineering for a credit bureau, before moving into Presales at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling it too. Outside of the office, he’s 49 countries into visiting The World, a STEM early-careers coach and advocate, and a keen runner.
+> Alex is a Senior Solutions Engineer at Confluent, coaching and guiding digital native businesses across Europe on their path to adopting data in motion. His career has spanned from software development in the nuclear power industry to Mainframe engineering for a credit bureau, before moving into Presales at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling it too. Outside of the office, he’s 50 countries into visiting The World, a STEM early-careers coach and advocate, and a keen runner.
 
 ## 2022
 [Data as a First Class Product](https://www.sofasummits.com/data-ai-summit) - An introduction to the principles of Datamesh. I also moderated a panel on Data Culture at this event.
