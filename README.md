@@ -2,9 +2,12 @@
 A living list of my previous public speaking sessions.
 
 ## Default Bio
-> Alex is an Advisory Solutions Engineer at Confluent, coaching and guiding digital native businesses across Europe on their path to adopting Data in Motion. His career has spanned from software development in the nuclear power industry to Mainframe engineering for a credit bureau, before moving into Presales at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling and sharing it too. Outside of the office, he’s 50 countries into visiting The World, a STEM early-careers coach, and a keen runner.
+> Alex is a Senior Solutions Engineer at Confluent, coaching and guiding digital native businesses across Europe on their path to adopting Data in Motion. His career has spanned from software development in the nuclear power industry to Mainframe engineering for a credit bureau, before moving into Presales at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling and sharing it too. Outside of the office, he’s 51 countries into visiting The World, and a keen competitive runner.
 
 ## 2023
+
+[Optimise your Cyber Defense Solutions with Confluent](https://www.somerfordassociates.com/cybersecurity-mesh-discovery-forum/?utm_source=confluent&utm_medium=partner_promotion&utm_campaign=somerford_cybersecurity_mesh_forum_june23) - How to modernise security monitoring architecture using Kafka for speed and flexibility in order to capture and curate data at wire speed and petabyte scale. Delivered as part of an Exec-level Cyber Security Mesh event. 
+
 [Modern Data Flows: Data Pipelines Done Right](https://www.bigdataworld.com/bdwai-london-conference-2023/session-delivered-by-confluent) - Delivered at Big Data & AI World, an event for C-level staff, AI leaders, data and analytics specialists, managers and key decision makers hosted at ExCeL London.
 
 ## 2022
