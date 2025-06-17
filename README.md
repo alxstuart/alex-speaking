@@ -2,12 +2,19 @@
 A living list of my previous public speaking sessions.
 
 ## Default Bio
-> Alex is a Senior Solutions Engineer at Confluent, coaching and guiding businesses across Europe and Africa on their path to adopting Data in Motion. His career has spanned from software development in the nuclear power industry to Mainframe engineering for a credit bureau, before moving into Presales at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling and sharing it too. Outside of the office, he’s 53 countries into visiting The World, and a keen competitive runner.
+> Alex is a Senior Solutions Engineer at Confluent, with a focus on enabling Data Engineering usecases around The World as a Shift Left Specialist. His career has spanned from software development in the nuclear power industry to Mainframe DB2 engineering for a credit bureau, before moving into Presales at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling and sharing it too. Outside of the office, he’s 56 countries into visiting The World, and a keen competitive runner.
 
 ## Blog Bio
->Alex Stuart is a Senior Solutions Engineer at Confluent, guiding digital native businesses across Europe on their path to adopting Data in Motion. His passion for fintech and analytics comes from previous roles at Experian and Splunk. He’s “In Motion” outside of work too: as a running community leader and a keen globetrotter at 53 countries and counting.  
+>Alex Stuart is a Senior Solutions Engineer at Confluent, qith a focus on enabling Data Engineering usecases around The World as a Shift Left Specialist. His passion for fintech and analytics comes from previous roles at Experian and Splunk. He’s “In Motion” outside of work too: as a running community leader and a keen globetrotter at 56 countries and counting.  
+
+
+## 2025
+[Bring Better, Faster & Trustworthy Data to your Data Warehouse & Data Lake](https://www.datanextconf.com/datanext-engineering)
 
 ## 2024
+
+[Breaking Batch v2.0 ](https://www.youtube.com/watch?v=9d3ivWrXUKs)
+
 [Using Personas to Be more Succesful with Stakeholders](https://www.elevatedyou.live/podcasts/tech-world-human-skills/episodes/2148673437) - Podcast focusing on Personas. What they are, why they're useful, and how you use them, with a focus from the presales community.
 
 [Crafting Your Career Identity: The Art of Personal Branding](https://www.youtube.com/watch?v=Pn1aBXJDRE4) - Panel discussion on the art of personal branding for Career navigator Summit.
