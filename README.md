@@ -2,14 +2,19 @@
 A living list of my previous public speaking sessions.
 
 ## Default Bio
-> Alex is a Senior Solutions Engineer at Confluent, with a focus on enabling Data Engineering usecases around The World as a Shift Left Specialist. His career has spanned from software development in the nuclear power industry to Mainframe DB2 engineering for a credit bureau, before moving into Presales at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling and sharing it too. Outside of the office, he’s 56 countries into visiting The World, and a keen competitive runner.
+> Alex is a Data Engineering Specialist at Confluent, acting a senior strategic advisor for Data Engineering and 'Shift Left' use cases. His career has spanned from software development in the nuclear power industry to Mainframe DB2 engineering for a credit bureau, before moving into Presales at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling and sharing it too. Outside of the office, he’s 61 countries into visiting The World, and a keen competitive runner.
 
 ## Blog Bio
->Alex Stuart is a Senior Solutions Engineer at Confluent, qith a focus on enabling Data Engineering usecases around The World as a Shift Left Specialist. His passion for fintech and analytics comes from previous roles at Experian and Splunk. He’s “In Motion” outside of work too: as a running community leader and a keen globetrotter at 56 countries and counting.  
+> Alex Stuart is a DSP Specialist at Confluent, ensuring customers have guidance for solving complex, real-time data challenges by "Shifting Left" and optimizing their Data Analytics architectures. Just like the data he works with, Alex is always “in motion” as a dedicated competitive runner, running community leader, and a well travelled globetrotter..  
 
+
+## 2026
+Architecting Context for the Agentic Estate - Agents don't respect the boundary of the operational and analytical divide. They need both; live context AND historical patterns. Latency sensitive like operational functions while also read heavy like analytical searches. Explored how to build context sources around the demands of the agentic estate.
 
 ## 2025
 [Bring Better, Faster & Trustworthy Data to your Data Warehouse & Data Lake](https://www.datanextconf.com/datanext-engineering)
+[No More Swamps: Building a Better-Governed Data Lake Architecture](https://www.confluent.io/blog/data-lake-governance-tableflow)
+[Secure Interoganizational Data Sharing with Confluent](https://www.confluent.io/blog/inter-organizational-data-sharing/)
 
 ## 2024
 
