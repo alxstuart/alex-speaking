@@ -9,7 +9,7 @@ A living list of my previous public speaking sessions.
 
 
 ## 2026
-Architecting Context for the Agentic Estate - Agents don't respect the boundary of the operational and analytical divide. They need both; live context AND historical patterns. Latency sensitive like operational functions while also read heavy like analytical searches. Explored how to build context sources around the demands of the agentic estate.
+[Architecting Context for the Agentic Estate](https://luma.com/mu2z83aj) - Agents don't respect the boundary of the operational and analytical divide. They need both; live context AND historical patterns. Latency sensitive like operational functions while also read heavy like analytical searches. Explored how to build context sources around the demands of the agentic estate. (delivered at multiple events)
 
 ## 2025
 [Bring Better, Faster & Trustworthy Data to your Data Warehouse & Data Lake](https://www.datanextconf.com/datanext-engineering)
