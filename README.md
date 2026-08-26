@@ -13,7 +13,9 @@ A living list of my previous public speaking sessions.
 
 ## 2025
 [Bring Better, Faster & Trustworthy Data to your Data Warehouse & Data Lake](https://www.datanextconf.com/datanext-engineering)
+
 [No More Swamps: Building a Better-Governed Data Lake Architecture](https://www.confluent.io/blog/data-lake-governance-tableflow)
+
 [Secure Interoganizational Data Sharing with Confluent](https://www.confluent.io/blog/inter-organizational-data-sharing/)
 
 ## 2024
