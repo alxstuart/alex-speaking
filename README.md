@@ -2,10 +2,10 @@
 A living list of my previous public speaking sessions.
 
 ## Default Bio
-> Alex is a Data Engineering Specialist at Confluent, acting a senior strategic advisor for Data Engineering usescases, helping organisations solve their complex, real-time data challenges by "Shifting Left" and optimising their Data Analytics architectures. His career has spanned from software development in the nuclear power industry to Mainframe DB2 engineering for a credit bureau, before moving into solution engineering at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling and sharing it too. Outside of the office, he’s 61 countries into visiting The World, and a keen competitive runner.
+> Alex is a Technical Specialist at Confluent, acting a senior strategic advisor for Data Engineering usescases, helping organisations solve their complex, real-time data challenges by "Shifting Left" and optimising their Data Analytics architectures. His career has spanned from software development in the nuclear power industry to Mainframe DB2 engineering for a credit bureau, before moving into solution engineering at Splunk and Confluent. Alex is passionate about helping people not just recognise the value in their data, but the art of controlling and sharing it too. Outside of the office, he’s 62 countries into visiting The World, and a sub elite runner.
 
 ## Blog Bio
-> Alex Stuart is a Data Engineering Specialist at Confluent, ensuring customers have guidance for solving complex, real-time data challenges by "Shifting Left" and optimising their Data Analytics architectures. Just like the data he works with, Alex is always “in motion” as a dedicated competitive runner, and a well travelled globetrotter.  
+> Alex Stuart is a Technical Specialist at Confluent, ensuring customers have guidance for solving complex, real-time data challenges by "Shifting Left" and optimising their architectures for Data Analytics and real-time AI context. Just like the data he works with, Alex is always “in motion” as a sub elite runner, and a well travelled globetrotter.  
 
 
 ## 2026
