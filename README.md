@@ -9,6 +9,8 @@ A living list of my previous public speaking sessions.
 
 
 ## 2026
+[Confluent Data Streaming World Tour](https://events.confluent.io/dswt2026) Keynote speaker and emcee at several DSWT events globally including London, Riyadh and Istanbul.
+
 [Architecting Context for the Agentic Estate](https://luma.com/mu2z83aj) - Agents don't respect the boundary of the operational and analytical divide. They need both; live context AND historical patterns. Latency sensitive like operational functions while also read heavy like analytical searches. Explored how to build context sources around the demands of the agentic estate. (delivered at multiple events)
 
 ## 2025
